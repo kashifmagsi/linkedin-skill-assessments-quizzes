@@ -336,9 +336,11 @@ D. Because you cannot create a search folder for a subfolder
 #### Q45. While using Focused Inbox, you notice that Outlook sometimes puts important messages from a specific customer on th Another tab. How do you fix this for future messages?
 
 - [ ] Right-click a message that was incorrectly organized and click Move to Focused.
-- [ ] Right-click a message that was incorrectly organized and click Always Move to Focused.
+- [x ] Right-click a message that was incorrectly organized and click Always Move to Focused.
 - [ ] Close the Outlook application and relaunch.
 - [ ] Locate that customer in the People Hub and select the Focused check box.
+Reference
+https://support.microsoft.com/en-us/office/focused-inbox-for-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978
 
 #### Q46. In the Outlook interface shown below, why is the Show as Conversations option grayed out?
 
